@@ -1,0 +1,14 @@
+.background {
+	-fx-background-color: "#68CABE";
+}
+
+.label {
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 13pt;
+}
+
+.button {
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 13pt;
+	-fx-background-color: "#59A9A0";
+}
